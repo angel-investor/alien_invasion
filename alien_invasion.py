@@ -47,3 +47,5 @@ def run_game():
         gf.update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets, play_button)
 
 run_game()
+
+# git提交测试
